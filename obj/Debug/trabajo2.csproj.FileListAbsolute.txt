@@ -1,0 +1,7 @@
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\bin\Debug\trabajo2.exe.config
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\bin\Debug\trabajo2.exe
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\bin\Debug\trabajo2.pdb
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\obj\Debug\trabajo2.csproj.AssemblyReference.cache
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\obj\Debug\trabajo2.csproj.CoreCompileInputs.cache
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\obj\Debug\trabajo2.exe
+C:\Users\Yosandi Miguel Reyes\source\repos\trabajo2\obj\Debug\trabajo2.pdb
